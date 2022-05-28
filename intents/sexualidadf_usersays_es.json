@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9e438154-4db9-430b-b182-1fa714c373ec",
+    "data": [
+      {
+        "text": "sexualidadf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9d9ef81f-a5ed-4e47-95f5-846c6639e4bd",
+    "data": [
+      {
+        "text": "sexualidad-f",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "05776536-4ed9-4e84-a533-1ddc146a12ae",
+    "data": [
+      {
+        "text": "SEXUALIDAD F",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

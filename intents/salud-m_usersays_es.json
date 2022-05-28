@@ -1,0 +1,27 @@
+[
+  {
+    "id": "7b64beb3-9a39-440d-89ae-8bdf6a24d849",
+    "data": [
+      {
+        "text": "salud",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

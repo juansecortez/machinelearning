@@ -1,0 +1,96 @@
+{
+  "id": "5af2b61c-9f51-4770-a386-25ac8ecbf3b3",
+  "name": "orgasmom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "edeba1b6-f1ff-4a69-8406-99a8373856dd",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "ORGASMO Y LA EYACULACIÓN\n\nEl orgasmo se desarrolla en dos fases:\n\n🔥Fase de acumulación del esperma en la uretra posterior. Esta fase de carga implica, por contracción de los epidídimos, de los deferentes, de la próstata, de las vesículas seminales y de las glándulas periuretrales  una transferencia y una acumulación de los diversos integrantes del esperma hacia la uretra prostática. Durante esta fase, la persona experimenta la sensación de eyaculación inminente, de punto de no retorno en la eyaculación.\n🔥Una segunda fase, la visible, es la fase de descarga o de expulsión y representa la eyaculación propiamente dicha. La eyaculación pone en acción la contracción de los músculos estriados que rodean la base del pene, esta musculatura se contrae en intervalos de 0,8 segundos, lo que tiene como efecto el contraer la uretra y expulsar rítmicamente el esperma. Durante la expulsión espasmódica del esperma, el hombre siente la sensación de placer intenso, que constituye el orgasmo propiamente dicho."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¿Cuánta masturbación es demasiada?\n\nAlgunas personas se masturban con frecuencia, a veces todos los días o incluso más de una vez al día. Otras personas se masturban una vez por semana, solo unas veces al mes o muy de vez en cuando. Algunas personas no se masturban nunca y eso también está bien. Todas las opciones son totalmente normales 👍👍👍.\n\nLa cantidad de veces que te masturbas únicamente es “demasiado” si interfiere con tu trabajo, tus responsabilidades o tu vida social 🙅‍♂️. Si sientes que te pasa eso, es recomendable que hables con un consejero o terapeuta."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Color Del Semen: ¿Qué Significa?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://scontent.fbog15-1.fna.fbcdn.net/v/t1.6435-9/88321428_151291222999395_4476559247714287616_n.png?_nc_cat\u003d102\u0026ccb\u003d1-7\u0026_nc_sid\u003d730e14\u0026_nc_eui2\u003dAeE80NscCScJzopyiCKCv2jCFxKMBr2M2nIXEowGvYzaclVLdbLk01TXSviXh5jbgIebePsrpFjjFq5tfd0Ao5md\u0026_nc_ohc\u003diAJtCOTEc5oAX9XOkVB\u0026_nc_ht\u003dscontent.fbog15-1.fna\u0026oh\u003d00_AT8UrBI0cEmU3Hy0rIBmqjR3ftZduEJKywvVolBjk3y80A\u0026oe\u003d62B741DC",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-M\", \"SALUD-M\", Y \"MITOS-M\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

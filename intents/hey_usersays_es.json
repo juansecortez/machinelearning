@@ -1,0 +1,43 @@
+[
+  {
+    "id": "6e7b0bc0-27ec-4ae4-ba4c-139495e4dc12",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "72b8aa07-ea02-44fc-933d-4a552e999a28",
+    "data": [
+      {
+        "text": "iniciar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "48b9b7d4-64f2-4185-8c4e-a978a6a17bbe",
+    "data": [
+      {
+        "text": "hola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

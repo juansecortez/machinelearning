@@ -1,0 +1,54 @@
+{
+  "id": "70d65544-2e0c-4187-89d3-57de8f39ad9a",
+  "name": "continua",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Para comenzar en este momento la información se va a dividir en ✌ dos partes, esto es, porque nos enfocaremos en abarcar la información de los dos sexos 🧍‍♂️🧍‍♀️ (masculino y femenino) ♂♀ recuerda que la información que aquí verás es con fines informativos ⚠ y cuando quieras puedes cambiar de clasificación escribiendo \"MASCULINO\" o \"FEMENINO\"."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {},
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

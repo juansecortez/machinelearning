@@ -1,0 +1,80 @@
+{
+  "id": "cbe2aa63-e5d4-4f62-a783-7dc4762561f7",
+  "name": "salud f",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ffd677b-57b6-48e9-81ea-1be777316798",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Pautas para mejorar tu higiene íntima\n\n❣Utiliza limpiadores específicos\nPara la higiene diaria de la zona vaginal debes utilizar un producto específico. No uses el mismo gel o jabón que usas para el resto del cuerpo.\n\n❣Realiza la limpieza de adelante hacia atrás\nEs muy importante que realices la higiene siempre de adelante hacia atrás. En el caso contrario, es muy probable que arrastres bacterias u otros microorganismos desde la zona anal hasta la vulvar. De esta forma, aumenta el riesgo de infecciones.\n\n❣Lava solo la zona externa\nSolo necesitan ser lavados los genitales externos. Existen mecanismos naturales para mantener el equilibrio interno en la vagina.\n\n❣Olvídate de las duchas vaginales\nLas duchas vaginales no son necesarias y, además, no resultan nada recomendables. Esta práctica produce un desequilibrio en la microbiota del interior de la vagina.\n\n❣No emplear esponja para lavar la zona íntima\nLo mejor para lavar tu zona íntima es que utilices tu mano limpia. En las esponjas se acumulan gérmenes que no resultan sencillos de eliminar. Además, al limpiarte con la mano es mucho más difícil que se produzcan roces o irritaciones.\n\n❣No utilices desodorantes íntimos\nNo debes obsesionarte con el olor de la zona genital. Aunque realices la higiene correctamente, es natural que presente un cierto olor.\n\n❣Utiliza ropa interior de algodón\nEl algodón favorece la transpiración, de manera que se evitan las rozaduras. Lava la ropa interior con detergentes suaves y aclárala adecuadamente para que no queden restos que puedan irritar tu zona íntima."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Control de ETS\n\nEs importante que entiendas que si ya iniciaste tu vida sexual debes utilizar protección (condón) en todas y cada una de tus relaciones, ten en cuenta que más que evitar embarazos no deseados también te estás protegiendo de contraer enfermedades, de transmisión sexual.\n\n⚠OJO⚠ existen enfermedades de transmisión sexual que no se adquieren de la misma manera, por ejemplo existen riesgos de contraer VIH por compartir jeringas y el VIH  se puede contagiar por contacto genital, es por esta y muchas más razones en este caso   \"CONFIAR EN TU PAREJA\" 💋 no es la mejor opción y siempre se debe usar preservativo.\n\n💁‍♀️ ¡SI ERES MUJER LLEVAR CONDONES NO TE HACE FÁCIL, TE HACE INTELIGENTE! 💁‍♀️\n\nNOTA: existen condones femeninos, te dejo un link para que aprendas un poco más sobre eso.\nhttps://www.youtube.com/watch?v\u003ddiTuNr0kQHk"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "5 síntomas que no debes pasar por alto\n\n❣Dolor en la zona del bajo vientre. Lo primero que hay que hacer es descartar la posibilidad de que estés embarazada, ya que este síntoma puede estar presente en el primer trimestre, indicar un embarazo ectópico (fuera del útero) o riesgo de aborto.\n\n❣Sangrado vaginal. Si estás embarazada, puede ser un síntoma de embarazo ectópico o riesgo de aborto, pero no te alarmes, porque también puede ocurrir en las primeras semanas de un embarazo normal durante la formación de la placenta.\n\n❣Lesiones de la piel de la vulva (úlceras, manchas oscuras, blancas o rojas). Al igual que en otras zonas de la piel del cuerpo, en la vulva pueden aparecer manchas marrones claro o angiomas, que son inocuos. Sin embargo, si cambian de color o son negras es preferible que consultes.\n\n❣Picores en la zona vaginal. Son uno de los motivos más frecuentes de consulta y suelen ser indicativos de infección bacteriana o por hongos (como las cándidas).\n\n❣Irregularidades en el pecho. En general, las mujeres estamos atentas y somos sensibles a la aparición de bultos o pequeños quistes internos en el pecho. Ante todo, y para no alarmarse, hay que tener en cuenta que a menudo son lesiones benignas."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-F\", \"SALUD-F\", Y \"MITOS-F\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cdfcfdea-3235-4bbb-b0f5-15b8cd927d5a",
+    "data": [
+      {
+        "text": "MITOS-F",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b7b254b-572c-4b67-b58c-15c834c6350f",
+    "data": [
+      {
+        "text": "MITOSF",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cad191f0-c799-4273-8940-15d4a0a6fb2f",
+    "data": [
+      {
+        "text": "MITOS F",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "c8242c79-e1ae-47c8-bd2c-c7f4ee2fd140",
+  "name": "ERECCION",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La erección\n\nEl pene está compuesto por una serie de cuerpos cavernosos, son una especie de compartimentos plegados por los que circula la sangre cuando el pene está flácido. En el transcurso de la erección, estos compartimentos se encuentran distendidos por el aflujo de sangre mayor. Así, con el aumento de aflujo sanguíneo en los cuerpos cavernosos, el pene se dilata. El mecanismo de la erección depende del sistema parasimpático sacro (una de las ramas del sistema nervioso central), se produce una excitación de las fibras parasimpáticos colinérgicas destinadas a las arterias peneana.\n\n\nEs decir, las erecciones provienen de estímulos físicos 💪 (manipulación, fricción, roce) y de estímulos simpáticos 💋 (excitación, emoción, atracción)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://psicologosoviedo.com/wp-content/uploads/2018/10/pene.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-M\", \"SALUD-M\", Y \"MITOS-M\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

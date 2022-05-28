@@ -1,0 +1,61 @@
+{
+  "id": "5671147e-c042-4b99-944c-e9aeff1fa5ae",
+  "name": "sexualidad m",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb3a072f-1a3a-49fb-9d40-afb18cf4a0f7",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El placer es algo que todas las personas tenemos en común, 👱‍♂️👩👨‍🦳👨‍🦲👩‍🦳 el sistema nervioso casualmente tiene ciertos puntos en el cuerpo donde concentra muchas terminaciones nerviosas juntas y al momento de estimular esas zonas encontramos una sensación placentera 🔥\nsin embargo, existen otros tipos de placer psicológico y o mental que dependen de cada una de las personas, estos patrones son constantes, pero es difícil determinar cuáles son, es por eso que hablaremos del placer enfocado en la anatomía genital.\n\n\nTe puedo dar más información sobre \"ERECCIÓN\" y \"ORGASMO-M\" recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

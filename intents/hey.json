@@ -1,0 +1,54 @@
+{
+  "id": "598d1f1f-9b71-4d50-b174-452640d204a7",
+  "name": "hey",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "741cfaba-2ebf-4419-9556-31b648592d9e",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Hola, ¿cómo estás?, me alegra mucho que estés interesad@ en conocer más sobre tu cuerpo🧍‍♂️🧍‍♀️, recuerda que este bot fue desarrollado por LUBEBOOK y debes ser mayor de 🔞 14 años para usarlo.                                                                        \n                                                                                                                                                                                                             En este momento te enseñaré un poco de anatomía básica genital, todo esto con el fin de que comprendas un poco más sobre el cuidado, salud y uso de diferentes productos o instrumentos que pueden ser de tu interés.  Si estás de acuerdo, escribe \"CONTINUAR\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

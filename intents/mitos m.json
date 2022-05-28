@@ -1,0 +1,114 @@
+{
+  "id": "0b1746d5-954f-420e-bcf0-1a73a647a53c",
+  "name": "mitos m",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da8b8bb4-57b1-4e3c-830b-508628dd3361",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Falsos mitos de la sexualidad masculina"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El tamaño importa\n\nA estas alturas, debería verse como una estupidez lo de que el tamaño del pene influye en el placer sexual que se proporciona a la pareja. Pero no. Los hombres tienen una gran preocupación por este tema, que en algunos casos limita su vida –evitan cambiarse en el gimnasio, les da vergüenza, ir a comprar preservativos de su talla...– y que en los casos más acusados desemboca en un complejo ya a nivel clínico, en un trastorno dimórfico corporal😭"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://i.pinimg.com/originals/59/d8/a2/59d8a2fe852b8b6bb0d5fb6b2ff5466d.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si hay erección, hay excitación\n\nPues no 👎. De hecho, la mayor parte de las erecciones se producen por otras razones. Es bien conocida la llamada \u0027morning glory\u0027 (\u0027gloria matutina\u0027), esa erección al levantarse que no indica que el varón tenga ganas. Es algo fisiológico, neurovascular, que responde a estímulos reflejos, lo mismo que las cuatro o cinco erecciones que los hombres tienen cada noche durante la fase 😴 REM del sueño y que pueden durar unos veinte minutos 🤯."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El alcohol ayuda\n\n\u0027A la corta, la alarga. Y a la larga, la acorta\u0027, dice una perla del refranero sobre el efecto de alcohol en la sexualidad masculina. 🍻 Beber moderadamente –de 30 a 60 centímetros cúbicos, unas dos copas– causa desinhibición, pero a partir de ahí el alcohol dificulta la erección, ya que afecta al sistema nervioso central, relacionado directamente con la respuesta sexual. El 50% de los varones en estado de embriaguez 🍸  han tenido dificultades para mantener relaciones."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-M\", \"SALUD-M\", Y \"MITOS-M\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

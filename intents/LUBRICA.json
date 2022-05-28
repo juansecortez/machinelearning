@@ -1,0 +1,66 @@
+{
+  "id": "6ee39bd0-e1f2-4834-89f4-a7ccad7a0d83",
+  "name": "LUBRICA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "CONGESTIÓN Y LUBRICACIÓN VAGINAL\n\nEsta fase viene determinada por estímulos psíquicos, sensoriales y genitales. Esta primera fase de la respuesta femenina  solo es parcialmente visible por la lubricación. La mujer no está sensorialmente informada de las modificaciones del movimiento útero-vaginal que se producen, mientras que el hombre ve directamente la erección. Esta fase se compone de tres fenómenos  más o menos simultáneos:\n\n❣LA EXCITACIÓN ERÓTICA acarrea una especie de expansión vaginal que provoca un «hinchazón» de este canal. La cavidad vaginal resultante es mucho más espaciosa, sobre todo en la zona más profunda.\n❣ Se produce además un mayor aflujo de sangre al útero.\nSe produce una vasocongestión venosa perivaginal que origina una transudación que lubrica las paredes.\n❣La vasodilatación se extiende a todo el aparato vaginal interno y externo. La transudación alcanza la entrada de la vagina y llega a los labios."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://psicologosoviedo.com/wp-content/uploads/2018/10/utero.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Por analogía con la erección masculina, se piensa que esta fase de lubricación-congestión depende del sistema parasimpático (una rama del sistema nervioso central). Este proceso es susceptible de sufrir influencias inhibidoras si se produce una activación de la rama del sistema nervioso central simpática. Es decir, ante una situación de ansiedad que la mujer experimente ante la situación sexual que está viviendo, este proceso de lubricación se detendrá."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

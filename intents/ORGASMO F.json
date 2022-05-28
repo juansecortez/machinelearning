@@ -1,0 +1,88 @@
+{
+  "id": "748cfe9f-84ee-4932-88ac-273a3a922ba7",
+  "name": "ORGASMO F",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Cuando la mujer se excita, no solo entra en erección el glande del clítoris, también lo hacen sus raíces y bulbos. Cuanto mayor sea la excitación, más aumentan de tamaño y más posible es que el pene al entrar en la vagina los estimule.\n\nLo que produce el orgasmo es:\n\n💕La estimulación directa del clítoris oral o manual\n💕La estimulación indirecta del clítoris mediante:\n❣La estimulación de las raíces y los bulbos  internos del clítoris, que rodean la parte inferior de la vagina\n❣La postura coital que facilite la presión o el roce continuo del área púbica de la mujer (se considera la forma más habitual de conseguir un orgasmo de forma indirecta)\n💕Los movimientos de entrada y salida del pene en la vagina tiran de los labios menores y éstos, a su vez, del capuchón que cubre el glande del clítoris (esto sucede más bien poco)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Los estudios diferentes estudios demuestran que 7 mujeres de cada 10 tienen orgasmo tras una estimulación directa del clítoris. La terapeuta e investigadora Helen Kaplan afirma que  del 90% de las mujeres que llegan al orgasmo, solo la mitad o incluso menos, lo alcanzan mediante el coito sin una estimulación del clítoris. El doctor Seymour Fisher concluye que el 65% de las mujeres prefieren la estimulación del clítoris para la consecución del orgasmo. Shere Hite llega a conclusiones similares: más del 70% de las mujeres afirmaba no alcanzar el orgasmo mediante la penetración sin más, es decir, si a la vez no se estimulaba su clítoris.🙍"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "MASTURBACIÓN FEMENINA"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://scontent.fbog15-1.fna.fbcdn.net/v/t1.6435-9/115912252_3629358417093670_1191888447031886521_n.jpg?stp\u003ddst-jpg_p843x403\u0026_nc_cat\u003d106\u0026ccb\u003d1-7\u0026_nc_sid\u003d8bfeb9\u0026_nc_eui2\u003dAeEN7C83TJt2zw_W67p698bM5ZwomnIDZIzlnCiacgNkjMwS9AUNZP7_aQ1znnMJgB80KamEKgShaEbV3dk8fOFb\u0026_nc_ohc\u003dak06XJkLxO8AX-DXILS\u0026_nc_ht\u003dscontent.fbog15-1.fna\u0026oh\u003d00_AT_ptP-SknCtP_Rf1kuzIZX_8VMQlhWYH6hngyY3uXCpNw\u0026oe\u003d62B681B5",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-F\", \"SALUD-F\", Y \"MITOS-F\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

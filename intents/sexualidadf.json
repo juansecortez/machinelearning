@@ -1,0 +1,46 @@
+{
+  "id": "c7b8d5b4-4e27-4b4b-a42f-0cb04161c161",
+  "name": "sexualidadf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El placer es algo que todas las personas tenemos en común, 👱‍♂️👩👨‍🦳👨‍🦲👩‍🦳 el sistema nervioso casualmente tiene ciertos puntos en el cuerpo donde concentra muchas terminaciones nerviosas juntas y al momento de estimular esas zonas encontramos una sensación placentera 🔥\nsin embargo, existen otros tipos de placer psicológico y o mental que dependen de cada una de las personas, estos patrones son constantes, pero es difícil determinar cuáles son, es por eso que hablaremos del placer enfocado en la anatomía genital.\n\n\nTe puedo dar más información sobre \"LUBRICACIÓN\" y \"ORGASMO-F\" recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

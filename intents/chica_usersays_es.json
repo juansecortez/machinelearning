@@ -1,0 +1,56 @@
+[
+  {
+    "id": "375d65ff-3ae7-46f0-8a29-88b219570dac",
+    "data": [
+      {
+        "text": "chica",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "faea4e7f-ab45-4d95-b7be-81ed6b33f802",
+    "data": [
+      {
+        "text": "women",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1e95642b-9e02-458f-83d2-2ccc80f816f7",
+    "data": [
+      {
+        "text": "femenino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b5773f37-22c4-4240-ab0c-c1d93b274615",
+    "data": [
+      {
+        "text": "\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003emujer\u003c/font\u003e\u003c/font\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

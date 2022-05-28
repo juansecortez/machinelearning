@@ -1,0 +1,77 @@
+{
+  "id": "e2021073-307d-4ff6-8098-004635e1ae68",
+  "name": "men",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "ESTE ES UN DIAGRAMA DE ANATOMÍA GENITAL MASCULINA:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://www.abc.com.py/resizer/G_wFrR9dJ5JAhIWqKT8_4FudN6s\u003d/fit-in/770x495/smart/cloudfront-us-east-1.images.arcpublishing.com/abccolor/SUTDQVXPWJAMJIKMIE234CBGFY.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es importante que entiendas  👆 que el tamaño y forma de los miembros masculinos siempre varía de una persona la otra, es por esto que no hay que alarmarse con este tipo de características."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Ya que sabes algo de anatomía genital masculina, ahora te puedo enseñar sobre los siguientes temas: \"SEXUALIDAD-M\", \"SALUD-M\", Y \"MITOS-M\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

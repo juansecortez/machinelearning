@@ -1,0 +1,54 @@
+[
+  {
+    "id": "8acd2f0b-9b2a-4a24-bcfd-b1db59a987db",
+    "data": [
+      {
+        "text": "men",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aeb5611c-b7d2-4ed3-be58-592cfcf6f11a",
+    "data": [
+      {
+        "text": "macho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1a65eab3-e48a-469a-a7a0-ad0c9693108b",
+    "data": [
+      {
+        "text": "Hombre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8a7b8c4f-6961-4db3-9acc-e5f95c3f1481",
+    "data": [
+      {
+        "text": "Masculino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

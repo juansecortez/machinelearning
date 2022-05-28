@@ -1,0 +1,117 @@
+{
+  "id": "af28d3aa-3353-4bbe-af4a-05695c735884",
+  "name": "salud-m",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab337547-857a-4c5d-9ee0-95bf10aca748",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1deddacf-a2f6-4394-9890-db447129e22f",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Higiene diaria\nUna correcta higiene genital masculina implica llevar a cabo diariamente -sobre todo después de sudar o de practicar algún deporte- las siguientes indicaciones:\n\n•Limpiar la zona con papel cada vez que se hace pis.\n\n•Lavar a diario con agua y jabón. El jabón debe ser neutro. Evitar usar guantes o esponjas. Existen jabones específicos para la higiene íntima masculina con acción antiséptica, desodorantes e hidratantes.\n\n•Lavar todas las zonas y pliegues, desde la zona anal -mayor fuente de bacterias- hasta ingles, pene, testículos y escroto. Aclarar bien para evitar irritaciones.\n\n•Las personas no circuncidadas deberán, (sin forzar), echar suavemente el prepucio hacia atrás y limpiar, también, el glande.\n\n•Secar bien la zona -preferentemente con una toalla que se utilice solo para ese fin- para evitar que se acumule humedad y proliferen bacterias u hongos.\n\n•No es recomendable emplear cremas, perfumes desodorantes o polvos de talco en la zona."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Control de ETS\n\nEs importante que entiendas que si ya iniciaste tu vida sexual debes utilizar protección (condón) en todas y cada una de tus relaciones, ten en cuenta que más que evitar embarazos no deseados también te estás protegiendo de contraer enfermedades, de transmisión sexual.\n\n⚠OJO⚠ existen enfermedades de transmisión sexual que no se adquieren de la misma manera, por ejemplo una persona con vagina tiene grandes probabilidades de contraer infecciones como la CLAMIDIA que se puede contagiar por contacto genital, es por esta y muchas más razones en este caso   \"CONFIAR EN TU PAREJA\" 💋 no es la mejor opción y siempre se debe usar preservativo.\n\nNOTA: si no sabes como usar un condón, aquí te dejo un video para que aprendas sobre eso.\nhttps://www.youtube.com/watch?v\u003dR3YKF5_EBro"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1843B/production/_102778399_gettyimages-162668100.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Si decides aprender más sobre tu salud sexual, no olvides ir a tu médico, él te debe explicar que otras formas de protección tienes y también puedes pedirle un par de preservativos\n\nRAZONES PARA IR AL MÉDICO\n\n⚠Dolor o sangrado al orinar.\n⚠Excesivas ganas de orinar.\n⚠Aparición de un bulto.\n⚠Dolor en los testículos.\n⚠No poder concebir después de un año de intentarlo.\n⚠Verrugas en los genitales.\n⚠Dificultad para que salga la orina.\n⚠Eyaculaciones de poco volumen o nulas (que les dificultan procrear).\n⚠Comezón, enrojecimiento o ardor en los genitales.\n⚠Color u olor de la orina más fuerte o diferente de lo habitual."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-M\", \"SALUD-M\", Y \"MITOS-M\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

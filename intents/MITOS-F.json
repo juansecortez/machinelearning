@@ -1,0 +1,90 @@
+{
+  "id": "9da1cd02-c114-4e6a-9ba9-78b61deb14c6",
+  "name": "MITOS-F",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Mitos sobre la sexualidad femenina que conviene combatir"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Con la regla no se puede tener un orgasmo\n\nCon la regla se puede hacer todo, el único riesgo son las manchas. Por lo demás, la mujer puede bañarse, (contra la creencia de las abuelas, que no se duchaban durante toda la semana de la menstruación); hacer deporte (gracias a la liberación de los tampones y la copa menstrual). Y, por supuesto, se pueden tener relaciones."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Durante la regla no te quedas embarazada\n\nEsta creencia presupone la absoluta regularidad del período, como si los óvulos bajasen al útero ordenada y puntualmente tal que reloj suizo, cuando factores como el estrés, los desórdenes alimenticios o un disgusto emocional pueden desbarajustar totalmente la periodicidad de la menstruación."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Las mujeres no se masturban, o mienten mucho\n\nEn todos los estudios, sean en el país que sean hechas las encuestas, las mujeres siempre se masturban menos que los hombres, como se puede observar en el gráfico de The National Survey of Sexual Health and Behaviour. Las féminas que lo admiten son muchas menos y con menor frecuencia; es más, no pocas afirman que no se masturban nunca."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Recuerda que te puedo enseñar sobre  \"SEXUALIDAD-F\", \"SALUD-F\", Y \"MITOS-F\"   recuerda escribir lo más parecido 👁 que puedas el texto dentro de las comillas que te interese. ❤"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "43a38b6b-4c83-4516-8b46-2d10c1826bc0",
+    "data": [
+      {
+        "text": "sexualidad ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "057d71ed-2842-4b16-8a0f-82f3f1240539",
+    "data": [
+      {
+        "text": "sexualidad-",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

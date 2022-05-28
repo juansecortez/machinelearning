@@ -1,0 +1,28 @@
+[
+  {
+    "id": "24edfc59-cc41-4877-93a1-d7510e14f237",
+    "data": [
+      {
+        "text": "LUBRICA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d112c7b-280d-44b9-98a8-77fc5deadb52",
+    "data": [
+      {
+        "text": "LUBRICACION",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

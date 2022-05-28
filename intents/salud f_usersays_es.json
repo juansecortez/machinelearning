@@ -1,0 +1,53 @@
+[
+  {
+    "id": "86ba859f-f219-4e84-8c39-e256a97786a1",
+    "data": [
+      {
+        "text": "SALUD",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "-F",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "76ce2b75-a284-48e9-819c-5372136ac42c",
+    "data": [
+      {
+        "text": "salud",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " f",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a30a3166-7015-4ace-a368-c39114c32c54",
+    "data": [
+      {
+        "text": "saludf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]
